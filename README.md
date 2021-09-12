@@ -20,7 +20,7 @@ https://github.com/abbasmurudkar/APPLE_PROJECT
 
 ## :camera: Screenshot:
 <a href="https://www.github.com/abbasmurudkar">
-  <img src="assets/flipli25.png">
+  <img src="images/APPLESS.png">
   </a>
 
 ## :octocat: Credits:
