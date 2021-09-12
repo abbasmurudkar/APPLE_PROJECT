@@ -6,10 +6,10 @@ Apple Inc. is an American multinational technology company that specializes in c
 </i><br>
 <a href="https://www.apple.com">www.apple.com</a><br>
 </p>
-<h2>Flipkart Clone Project:</h2>
+<h2>APPLE-Clone Project:</h2>
 
-This is a simple clone of webpage flipkart.com using HTML, CSS. Check out the page at
-https://github.com/abbasmurudkar/flipkart-clone
+This is a simple clone of webpage apple.com using HTML, CSS. Check out the page at
+https://github.com/abbasmurudkar/APPLE_PROJECT
 
 <h2>page_facing_up: How to use:</h2>
 <ol>
