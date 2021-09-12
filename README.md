@@ -29,5 +29,5 @@ https://github.com/abbasmurudkar/APPLE_PROJECT
 
 ## :memo: Disclaimer:
 
-**_Note: This Flipkart clone project is just for educational purpose._**
+**_Note: This APPLE clone project is just for educational purpose._**
 
