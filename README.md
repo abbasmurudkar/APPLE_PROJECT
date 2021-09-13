@@ -1,6 +1,6 @@
 <h2 align="center">APPLE PROJECT </h2>
 <p align="center">
-<img src="images/apple.png" alt="flipkart" height="100" width="100" ><br><br>
+<img src="images/apple.png" alt="flipkart" height="100" width="100px" ><br><br>
 <i>
 Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue and, since January 2021, the world's most valuable company..
 </i><br>
